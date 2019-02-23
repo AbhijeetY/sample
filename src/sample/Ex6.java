@@ -18,6 +18,7 @@ public class Ex6 {
 		String s = new String("hdskjc");
 		System.out.println(s);
 				
+		System.err.println("jcisdxv");
 		try {
 			throw new Exception("in try");
 		}catch(Exception e) {
