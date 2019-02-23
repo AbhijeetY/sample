@@ -11,6 +11,7 @@ public class Ex6 {
 		Instant instant = Calendar.getInstance().toInstant();
 		System.out.println(instant);
 		System.out.println(instant.isBefore(new Date().toInstant()));
+		System.out.println("change is done");
 	}
 
 }
