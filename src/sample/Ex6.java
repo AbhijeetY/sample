@@ -29,6 +29,8 @@ public class Ex6 {
 			}
 		}finally {
 			System.out.println("test change");
+			System.out.println("test change2");
+
 		}
 	}
 
