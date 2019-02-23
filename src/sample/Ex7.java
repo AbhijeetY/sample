@@ -12,6 +12,7 @@ public class Ex7 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enetr one string");
 		System.out.println("Hello modification");
+		System.out.println("Hello modification1");
 		
 		
 		sc.close();
