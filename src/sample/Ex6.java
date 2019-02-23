@@ -28,7 +28,7 @@ public class Ex6 {
 				e1.printStackTrace();
 			}
 		}finally {
-			
+			System.out.println("test change");
 		}
 	}
 
