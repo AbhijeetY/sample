@@ -11,7 +11,7 @@ public class Ex7 {
 		String str="abcd";
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enetr one string");
-		
+		System.out.println("Hello modification");
 		
 		
 		sc.close();
