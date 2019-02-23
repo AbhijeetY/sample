@@ -15,6 +15,8 @@ public class Ex6 {
 		System.out.println(instant.isBefore(new Date().toInstant()));
 		System.out.println("change is done");
 		System.out.println("change3 is done");
+		String s = new String("hdskjc");
+		System.out.println(s);
 	}
 
 }
