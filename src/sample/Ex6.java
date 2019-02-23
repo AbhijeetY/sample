@@ -33,6 +33,7 @@ public class Ex6 {
 			System.out.println("test change");
 			System.out.println("test change2");
 			System.out.println("test change 3 in feature 2");
+			System.out.println("vnfjdikxj,");
 
 		}
 	}
