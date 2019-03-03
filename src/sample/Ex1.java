@@ -22,4 +22,8 @@ public class Ex1{
 		}
 		System.out.println(x);
 	}
+	public static void sample()
+	{
+		System.out.println("git sample methood");
+	}
 }
