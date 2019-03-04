@@ -21,5 +21,6 @@ public class Ex1{
 			}System.out.print(" ");
 		}
 		System.out.println(x);
+		System.out.println("Ex1 upadated with one statement at 24 line no");
 	}
 }
